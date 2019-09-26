@@ -13,3 +13,4 @@ Create a self-generating composition based on an instruction set from one of Sol
 ## Examples
 - https://lsudigitalart.github.io/2210hw5-EmiliePitre/
 - https://lsudigitalart.github.io/2210hw5-jakehamill/
+- https://lsudigitalart.github.io/2210hw5-EHargis2137/
