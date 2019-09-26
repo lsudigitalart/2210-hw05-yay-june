@@ -9,3 +9,7 @@ Create a self-generating composition based on an instruction set from one of Sol
 ## Inspiration:
 - http://artport.whitney.org/commissions/softwarestructures/text.html
 - http://artport.whitney.org/commissions/softwarestructures/map.html
+
+## Examples
+- https://lsudigitalart.github.io/2210hw5-EmiliePitre/
+- https://lsudigitalart.github.io/2210hw5-jakehamill/
