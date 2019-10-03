@@ -3,7 +3,7 @@
 ## Readings
 - Getting Started with p5.js: 6/Translate, Rotate, Scale: Transform the coordinates.
 
-## Sol Lewitt
+## Generative Composition
 Create a generative composition based on an instruction set from one of Sol Lewitt’s Wall Drawings. Use at least 2 of the following funtions: scale(), rotate(), translate(). See this link (https://massmoca.org/sol-lewitt/) for instructions and a physical example of what one looks like.
 
 ## Inspiration:
